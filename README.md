@@ -7,7 +7,7 @@ The project was to analyze the sales data and visualize key insights for decisio
 - I have developed an interactive dashboard that provide actionable insights and presented findings to stakeholders,influencing strategic decision making process.
 - I have able to answer the stakeholders question by analyzing the data.  
 
-Total Sales from copiers for Economy Shipping mode?
+Total Sales from copiers for Economy Shipping mode?  
 Total Sales from France in 2017?  
 Total sales of bookcases sold in Central Region?  
 Who is the most profitable customer?  
