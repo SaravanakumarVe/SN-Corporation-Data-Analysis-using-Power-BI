@@ -23,6 +23,4 @@ Which Shipping mode brought the 2nd most orders in Q3,2018?
 -  Artificial intelligence based "Q & A Chart" is used. It works like Chat GPT. It gives answer of any questions but within the dataset of dashboard.  
 
   Power BI dashboard I have created:
-  [SN corporation dashboard 1.pbix](https://github.com/SaravanakumarVe/SN-Corporation-Data-Analysis-using-Power-BI/blob/main/SN%20corporation%20dashboard%201.pbix) 
-
-  [SN corporation dashboard 2.pbix](https://github.com/SaravanakumarVe/SN-Corporation-Data-Analysis-using-Power-BI/blob/main/SN%20corporation%20dashboard%202.pbix)
+  
