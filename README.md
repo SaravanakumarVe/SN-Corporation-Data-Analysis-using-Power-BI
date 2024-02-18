@@ -20,6 +20,9 @@ Which Shipping mode brought the 2nd most orders in Q3,2018?
 - Used "Pie Chart" to show quantity of product sold in different region and segments.
 - "Map Chart" is used to display a business by country surved. This is global map.
 -  Finally added "Slicers" to select muliple shipping modes and Order date according to user requirement. It is user friendly and quickly accessible.
--  Artificial intelligence based "Q & A Chart" is used. It works like Chat GPT. It gives answer of any questions but within the dataset of dashboard.
+-  Artificial intelligence based "Q & A Chart" is used. It works like Chat GPT. It gives answer of any questions but within the dataset of dashboard.  
 
--  Power BI dashboard I have created:
+  Power BI dashboard I have created:
+  [SN corporation dashboard 1.pbix](https://github.com/SaravanakumarVe/SN-Corporation-Data-Analysis-using-Power-BI/blob/main/SN%20corporation%20dashboard%201.pbix) 
+
+  [SN corporation dashboard 2.pbix](https://github.com/SaravanakumarVe/SN-Corporation-Data-Analysis-using-Power-BI/blob/main/SN%20corporation%20dashboard%202.pbix)
