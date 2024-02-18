@@ -24,6 +24,7 @@ Which Shipping mode brought the 2nd most orders in Q3,2018?
 
   Power BI dashboard I have created:
  ![Screenshot 2024-02-18 212507](https://github.com/SaravanakumarVe/SN-Corporation-Data-Analysis-using-Power-BI/assets/157964968/436a9f42-45f2-44dc-9131-a16c29ee3beb)
+ 
  ![Screenshot 2024-02-18 212826](https://github.com/SaravanakumarVe/SN-Corporation-Data-Analysis-using-Power-BI/assets/157964968/b026d1c2-f5a9-4c94-a056-89c87effe38a)
 
  **Insights from Dashboard**
